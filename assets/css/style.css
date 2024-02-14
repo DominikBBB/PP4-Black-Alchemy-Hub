@@ -9,11 +9,11 @@ body {
     color: #0e0e10;
 
     background-image: url("../img/BAH_06.png");
-    /* background-size: cover; */
-    /* background-size: contain; */
+    background-position:center;
+    background-size: cover;
     background-repeat: no-repeat;
     
-    
+    height: 110vh;  
 }
 
 .hide-content {
